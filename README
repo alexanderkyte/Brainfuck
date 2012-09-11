@@ -1,0 +1,10 @@
+I'm not too proud of it. It was rushed, 2AM work in a language I haven't used since I started working with haskell. 
+I was never the best with fopen, fseek, etc. The C standard library was never my thing as much as the language and its implementation. 
+
+I reused a ton of code structure and the part of the code that seeks for brackets from the bfck.c interpreter, simply because fseek was giving me errors left and right. 
+
+I could do better in ruby or python, or so I'd like to think. eval() is nice, as is having used the language you're using in half a year. 
+
+If you need better, I could probably make time. But it works. 
+
+But oh god, the C string manipulation. 
